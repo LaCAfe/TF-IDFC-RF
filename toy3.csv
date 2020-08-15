@@ -1,0 +1,9 @@
+text##,##y
+'casa bola aaa'##,##pos
+'casa aaa aaa'##,##pos
+'casa aaa casa'##,##pos
+'casa aaa'##,##neg
+'bola aaa'##,##neg
+'bola aaa'##,##neg
+'bola aaa'##,##neg
+'bola aaa'##,##neg
